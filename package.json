@@ -1,0 +1,15 @@
+{
+  "name": "davi-l-gamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "surge": "npx surge --project . --domain davilucasgamer.surge.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/herculeseduardo/davi-l-gamer#readme",
+  "devDependencies": {
+    "surge": "latest"
+  }
+}
